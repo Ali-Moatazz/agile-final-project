@@ -9,4 +9,4 @@ The project simulates building the back-end product catalog for an e-commerce si
 - 📌 Product backlog, sprint backlog, and refinement process  
 - 📌 Sprint planning, Kanban workflow, and burndown chart  
 
-➡️ [View the live Kanban Board] 
+➡️ [View the live Kanban Board]: https://github.com/users/Ali-Moatazz/projects/3
